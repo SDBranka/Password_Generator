@@ -11,6 +11,8 @@
 ![alt text](https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png)
 
 
+![Screenshot](Pw_Generator_Screenshot1.png)
+
 
 ## Description
 
