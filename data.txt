@@ -1,0 +1,6 @@
+aaaaa | exampleEmail@something.com | aaaaa
+bbbbb | exampleEmail@something.com | bbbbb
+aaaaa | exampleEmail@something.com | aaaaa
+bbbbb | exampleEmail@something.com | bbbbb
+aaaaa | exampleEmail@something.com | aaaaa
+GitHub | exampleEmail@something.com | H5QYdM791Yf#a#p
