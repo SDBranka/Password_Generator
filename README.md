@@ -8,6 +8,10 @@
 
 ---
 
+![alt text](https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png)
+
+
+
 ## Description
 
 This app allows a user to generate a password for and store login information to an external file for various accounts.
