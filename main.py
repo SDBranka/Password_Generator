@@ -1,7 +1,7 @@
 import tkinter
 from tkinter import messagebox
 import random
-
+import pyperclip
 
 LABEL_FONT = ("Arial", 12, "normal")
 
@@ -25,8 +25,8 @@ def gen_pw_button_clicked():
 
     print(f"Your password is: {password}")
     password_input.insert(tkinter.END, password)
-
-    # answer_label["text"] = round(km_answer, 2)
+    # stores the password to users clipboard to enable pasting elsewhere
+    pyperclip.copy(password)
 
 
 

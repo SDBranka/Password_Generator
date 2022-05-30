@@ -21,19 +21,21 @@ This app allows a user to generate a password for and store login information to
 ##### Controls
 
 - Click the Generate Password button to generate a password
+- - Clicking the Generate Password button also copies the generated password to the clipboard so that the user may paste it into their browser
 - Click the Add button to save the login information to an external file named data.txt
 
 ##### Technologies
 
 - Python
 - Tkinter
+- Pyperclip
 - Visual Studio
 
 ---
 
 ## How To Use
 
-Download or clone this repository to your desktop. Click on the file Pixel Runner.exe or run main.py in an appropriate Python environment.
+Download or clone this repository to your desktop. Click on the file Password_Generator.exe or run main.py in an appropriate Python environment.
 
 ---
 
