@@ -13,8 +13,7 @@
 
 <!-- <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot1.png" width="200" height="200"> --> -->
 
-![alt-text-1](Pw_Generator_Screenshot0.png width= 50%) ![alt-text-2](Pw_Generator_Screenshot1.png width = 50%)
-
+<p align="center"> <a href="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width=50% alt="app pic one" ><img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot1.png" width=50% alt="app pic two" /></a> </p>
 
 ## Description
 
