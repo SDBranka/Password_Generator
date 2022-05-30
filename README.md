@@ -14,8 +14,8 @@
 <!-- <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot1.png" width="200" height="200"> -->
 
 <p float="center">
-    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width=50% alt="app pic two" />
-    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot1.png" width=50% alt="app pic two" />
+    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width=10% alt="app pic two" />
+    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot1.png" width=10% alt="app pic two" />
 </p>
 
 ## Description
