@@ -8,10 +8,11 @@
 
 ---
 
-<img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width="100" height="100">
+<p float="left">
+    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width="200" height="200">
 
-<img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width="100" height="100">
-
+    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width="200" height="200">
+</p>
 
 ## Description
 
