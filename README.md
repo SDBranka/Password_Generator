@@ -9,11 +9,11 @@
 ---
 
 
-<!-- <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width="200" height="200">
+<!-- <!-- <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width="200" height="200"> -->
 
-<img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot1.png" width="200" height="200"> -->
+<!-- <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot1.png" width="200" height="200"> --> -->
 
-![alt-text-1](Pw_Generator_Screenshot0.png "title-1") ![alt-text-2](Pw_Generator_Screenshot1.png "title-2")
+![alt-text-1](Pw_Generator_Screenshot0.png width= 50%) ![alt-text-2](Pw_Generator_Screenshot1.png width = 50%)
 
 
 ## Description
