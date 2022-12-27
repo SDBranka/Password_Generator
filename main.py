@@ -130,7 +130,4 @@ genpass_button = tkinter.Button(text = "Generate Password",
 genpass_button.grid(row = 3, column = 2)
 
 
-
-
-
 window.mainloop()
