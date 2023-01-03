@@ -103,7 +103,7 @@ website_input.grid(row = 1, column = 1, columnspan = 2)
 email_input = tkinter.Entry(width = 36)
 # prepopulate field with the most common entry
 # email_input.insert(index(where to insert text), field(the text to insert))
-# 0 means the first character END starts it at the end
+# 0 means the first character, END starts it at the end
 email_input.insert(tkinter.END, "exampleEmail@something.com")
 email_input.grid(row = 2, column = 1, columnspan = 2)
 
