@@ -129,5 +129,5 @@ genpass_button = tkinter.Button(text = "Generate Password",
 )
 genpass_button.grid(row = 3, column = 2)
 
-
+# to maintain window during use
 window.mainloop()
