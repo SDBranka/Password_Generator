@@ -28,7 +28,6 @@ def gen_pw_button_clicked():
     # stores the password to users clipboard to enable pasting elsewhere
     pyperclip.copy(password)
 
-
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 # on add_button click take in the inputs and 
 # add the entries to data.txt in format:
@@ -54,7 +53,6 @@ def add_button_clicked():
                 # clear the input fields (from first character to the last)
                 website_input.delete(0, tkinter.END)
                 password_input.delete(0, tkinter.END)
-
 
 # ---------------------------- UI SETUP ------------------------------- #
 
